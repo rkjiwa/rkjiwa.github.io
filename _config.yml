@@ -19,8 +19,8 @@ github: {
     "pages_hostname": "github.io",
     "api_url": "https://api.github.com",
     "environment": "dotcom",
-    "public_repositories": [ Repository Objects ],
-    "organization_members": [ User Objects ],
+    "public_repositories": rkjiwa.github.io,
+    "organization_members": rkjiwa,
     "build_revision": "cbd866ebf142088896cbe71422b949de7f864bce",
     "project_title": "rkjiwa.github.io",
     "project_tagline": "A GitHub Pages site to showcase rkjiwa.gituhb.io",
@@ -41,5 +41,5 @@ github: {
     "is_project_page": true,
     "show_downloads": true,
     "url": "http://rkjiwa.github.io/", // (or the CNAME)
-    "contributors": [ User Objects ]
+    "contributors": rkjiwa,
 }
