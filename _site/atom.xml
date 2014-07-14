@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title></title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2014-07-14T16:15:55-04:00</updated>
- <id></id>
+ <title>Rahim Jiwa</title>
+ <link href="https://twitter.com/rkjiwa/atom.xml" rel="self"/>
+ <link href="https://twitter.com/rkjiwa/"/>
+ <updated>2014-07-14T17:40:55-04:00</updated>
+ <id>https://twitter.com/rkjiwa</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>first post</title>
+   <link href="https://twitter.com/rkjiwa/2014/07/14/first-post/"/>
+   <updated>2014-07-14T00:00:00-04:00</updated>
+   <id>https://twitter.com/rkjiwa/2014/07/14/first-post</id>
+   <content type="html">&lt;p&gt;This is a test first post&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>

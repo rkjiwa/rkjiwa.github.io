@@ -2,4 +2,14 @@
 pygments: true
 markdown: redcarpet
 
+# Permalinks
+permalink: pretty
+
+#Site
+title: Rahim Jiwa
+url: rkjiwa.github.io
+
+author: Rahim Jiwa
+url: https://twitter.com/rkjiwa
+
 paginate: 5
