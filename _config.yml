@@ -1,1 +1,5 @@
+## Dependencies
 pygments: true
+markdown: redcarpet
+
+paginate: 5
