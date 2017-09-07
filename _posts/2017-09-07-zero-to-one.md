@@ -3,7 +3,9 @@ layout: post
 title: Notes on Zero to One by Peter Thiel and Blake Masters
 ---
 This book has got some really good points about entrepreneurship, startups, and guidance on how to build a great business. It looks at a number of topics including: recruiting, sales, creating monopolies, role of technology, and ideas of progress. It is a mixture of his thoughts and experiences, and is a useful read to anyone who wants to be in technology or venture capital.
+
 Quick Takeaways:
+
 Technology as any new and better way of doing something. 
 
 Vertical progress is the idea of going from 0 to 1 and building something new. Horizontal progress is going from 1 to n, and is more of a copy of something that already exists.
