@@ -1,6 +1,7 @@
 ---
 layout: page
-title: gists
+title: "gists"
+permalink: /gists/
 ---
 
 Test:
