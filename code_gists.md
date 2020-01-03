@@ -4,7 +4,7 @@ title: Code Gists
 ---
 # Gists
 
-This page has a list of gists that I've put up on Github Gists.
+This page has a list of links to gists that I've put up on Github Gists.
  
 ## PDF Extraction
 
