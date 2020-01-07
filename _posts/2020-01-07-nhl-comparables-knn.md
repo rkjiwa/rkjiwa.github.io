@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NHL player comparables via KNN + demo
+title: NHL Player Comparables via KNN + Demo
 ---
 
 Since the NHL lockout and the introduction of the salary cap, NHL teams have faced the challenge of building their team with a hard limit of what they can afford to spend on their players. This has introduced a 'Moneyball' aspect to hockey. There has been an emergence of analytics as teams search for ways to spend their salary allocation in the most effective manner. The challenge is that General Managers need to determine how they are going to allocate the salary for their players while building a winning team. There are different ways to do this, but ultimately, the GMs need to get better value contracts by signing players for less than what other comparable players (either by play style, role or stats) are making. Now as a hockey fan, I don't know the internal systems that teams might use to bridge the qualitative and quantitative metrics that players can be compared on. However, one approach that could be used, is utilizing the K-Nearest Neighbours algorithm to cluster to players together to determine which players are similar to each other.

@@ -26,3 +26,7 @@ title: All Posts List
 [PDF Extraction with Tika](http://www.rahimjiwa.com/2020/01/02/pdf-extraction-tika/)
 
 [PDF Extraction with PyPDF2](http://rahimjiwa.com/2020/01/03/pdf-extraction-pypdf2/)
+
+[Hal 9000 - An Ideal of Computer Human Interaction](http://www.rahimjiwa.com/2020/01/04/hal-9000/)
+
+[NHL Player Comparables via KNN + Demo](http://www.rahimjiwa.com/2020/01/07/nhl-comparables-knn/)
