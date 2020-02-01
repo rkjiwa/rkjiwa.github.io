@@ -31,4 +31,4 @@ title: All Posts List
 
 [NHL Player Comparables via KNN + Demo](http://www.rahimjiwa.com/2020/01/07/nhl-comparables-knn/)
 
-[Lee Sedol Retires](http://www.rahimjiwa.com/2020/02/01/lee-sedol-retires)
+[Lee Sedol Retired](http://www.rahimjiwa.com/2020/02/01/lee-sedol-retired)
