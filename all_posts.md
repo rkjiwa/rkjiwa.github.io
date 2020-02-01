@@ -30,3 +30,5 @@ title: All Posts List
 [Hal 9000 - An Ideal of Computer Human Interaction](http://www.rahimjiwa.com/2020/01/04/hal-9000/)
 
 [NHL Player Comparables via KNN + Demo](http://www.rahimjiwa.com/2020/01/07/nhl-comparables-knn/)
+
+[Lee Sedol Retires](http://www.rahimjiwa.com/2020/02/01/lee-sedol-retires)
