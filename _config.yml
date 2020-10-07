@@ -14,8 +14,7 @@ url: https://twitter.com/rkjiwa
 
 paginate: 5
 
-# google analytics
-gtag('config', 'UA-103783436-1');
+
 
 
 
